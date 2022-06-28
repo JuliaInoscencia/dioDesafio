@@ -1,0 +1,15 @@
+dir / ls -> traz todos os diretorios da pasta
+ls -a -> monstra os diretorios ocultos
+cd / -> 
+cd .. -> volta a pasta/nível
+cd + tab -> completa
+cls/clear -> limpar a tela ->ctrl l
+mkdir -> criar pasta
+echo nome > nome.formato -> criar o arquivo
+del -> deleta tudo da pasta
+rmdir /rm-rf -> para excluir repositorios
+mv nome ./pasta -> move arquivo p/ outra pasta
+*git add nome pasta/ -> adiciona arquivo em outra pasta para o repositório
+git config --list -> ver todas config
+git config --global --unset -> tira o set de algum atributo 
+
